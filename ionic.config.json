@@ -1,0 +1,7 @@
+{
+  "name": "google-mapita",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
